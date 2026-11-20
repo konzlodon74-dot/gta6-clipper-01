@@ -1,0 +1,16 @@
+# Source footage and render intermediates: the trailer was fetched and cut in the build session;
+# clip.mp4 is the finished render and is committed, these are not needed to run the entry.
+trailer2.mp4
+seg_a.mp4
+seg_b.mp4
+seg_c.mp4
+frames/
+zoom/
+seq/
+out/
+contact.jpg
+seq_sheet.jpg
+zoom_sheet.jpg
+chk_*.jpg
+crop*.jpg
+full58.jpg
